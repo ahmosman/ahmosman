@@ -9,27 +9,27 @@
 <div align="center">
     <table>
         <tr>
-            <td align="center">🎯 PHP <img alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"style="margin-right: 20px;"/></td>
-            <td align="center">🎯 Symfony <img alt="Symfony" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg"style="margin-right: 20px;"/></td>
-            <td align="center"> SQL <img alt="MySql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"style="margin-right: 20px;"/></td>
+            <td align="center">🎯&nbsp;PHP <br> <img alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"style="margin-right: 20px;"/></td>
+            <td align="center">🎯&nbsp;Symfony <br> <img alt="Symfony" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg"style="margin-right: 20px;"/></td>
+            <td align="center"> SQL <br> <img alt="MySql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"style="margin-right: 20px;"/></td>
         </tr>
         <tr>
-            <td align="center"> JS <img alt="JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"style="margin-right: 20px;"/></td>
-            <td align="center"> HTML5 <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"style="margin-right: 20px;"/></td>
-            <td align="center"> CSS3 <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"style="margin-right: 20px;"/></td>
+            <td align="center"> JS <br> <img alt="JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"style="margin-right: 20px;"/></td>
+            <td align="center"> HTML5 <br> <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"style="margin-right: 20px;"/></td>
+            <td align="center"> CSS3 <br> <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"style="margin-right: 20px;"/></td>
         </tr>    
         <tr>
-            <td align="center"> Sass <img alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"style="margin-right: 20px;"/></td>
-            <td align="center"> Docker <img alt="PHPStorm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"style="margin-right: 20px;"/></td>
-            <td align="center"> Git <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"style="margin-right: 20px;"/></td>
+            <td align="center"> Sass <br> <img alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"style="margin-right: 20px;"/></td>
+            <td align="center"> Docker <br> <img alt="PHPStorm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"style="margin-right: 20px;"/></td>
+            <td align="center"> Git <br> <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"style="margin-right: 20px;"/></td>
         </tr>
         <tr>
-            <td align="center"> C++ <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"style="margin-right: 20px;"/></td>
-            <td align="center"> Linux <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"style="margin-right: 20px;"/></td>
-            <td align="center"> VSCode <img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"style="margin-right: 20px;"/></td>
+            <td align="center"> C++ <br> <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"style="margin-right: 20px;"/></td>
+            <td align="center"> Linux <br> <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"style="margin-right: 20px;"/></td>
+            <td align="center"> VSCode <br> <img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"style="margin-right: 20px;"/></td>
         </tr>        
         <tr>
-            <td align="center"> Github <img alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"style="margin-right: 20px;"/></td>
+            <td align="center"> Github <br> <img alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"style="margin-right: 20px;"/></td>
         </tr>
     </table>
 </div>
