@@ -37,4 +37,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmosman&layout=compact&langs_count=7" alt="Most used languages">
 </div>
 <h3>Contact with me:</h3>
+<p>
+<a href="https://instagram.com/ahmiosman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmiosman" height="30" width="40" /></a>
+</p>
 <p> 📧 ahmedosman.inf@gmail.com</p>
