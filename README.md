@@ -27,7 +27,7 @@
             <td align="center"> Linux <br> <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="margin-right: 20px;"/></td>
         </tr>
         <tr>
-            <td align="center"> VSCode <br> <img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin-right: 20px;"/></td>
+            <td align="center"> PHPStorm <br> <img alt="PHPStorm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" style="margin-right: 20px;"/></td>
             <td align="center"> Github <br> <img alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin-right: 20px;"/></td>
         </tr>
     </table>
@@ -37,7 +37,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmosman&layout=compact&langs_count=7" alt="Most used languages">
 </div>
 <h3>Contact with me:</h3>
-<p>
-<a href="https://instagram.com/ahmiosman" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmiosman" height="30" width="40" /></a>
-</p>
 <p> 📧 ahmedosman.inf@gmail.com</p>
