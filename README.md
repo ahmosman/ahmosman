@@ -21,7 +21,7 @@
             <td align="center"> Python <br> <a href="https://www.python.org"><img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin-right: 20px;"/></a></td>
         </tr>    
         <tr>
-            <td align="center">Langchain AI<br> <a href="https://www.langchain.com"><img alt="Symfony" width="30px" src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png" style="margin-right: 20px;"/></a></td>
+            <td align="center">Langchain AI<br> <a href="https://www.langchain.com"><img alt="Langchain AI" width="30px" src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png" style="margin-right: 20px;"/></a></td>
             <td align="center">Symfony <br> <a href="https://symfony.com"><img alt="Symfony" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" style="margin-right: 20px;"/></a></td>
             <td align="center"> Git <br> <a href="https://www.w3schools.com/git/default.asp"><img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-right: 20px;"/></a></td>
             <td align="center"> C++ <br> <a href="https://www.w3schools.com/cpp/default.asp"><img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="margin-right: 20px;"/></a></td>   
